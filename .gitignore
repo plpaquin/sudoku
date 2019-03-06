@@ -1,0 +1,8 @@
+.DS_Store
+.idea/
+.vscode/
+build/
+locales/
+node_modules/
+public/main.js
+yarn-error.log

@@ -1,0 +1,6 @@
+{
+    "extends": ["@equisoft/eslint-config-react"],
+    "env": {
+        "browser": true
+    }
+}
